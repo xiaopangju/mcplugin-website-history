@@ -11,3 +11,4 @@ mcp又404了
 由于新的cdn出了一点bug，站长决定换一个cdn，但由于在上网课，还没有换
 # 2020年2月25日
 今天下午五点十九分，kk发布群公告，表示因为服务器问题，原域名暂时暂停。临时域名为mcp.mcplugin.cn
+https://i.loli.net/2020/02/25/7hkKtoVuLA9ZSpz.jpg
