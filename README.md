@@ -4,7 +4,7 @@
 request
 
 # 站长个人对以前及现在事情的记录
-本文章原文地址:https://blog.mcplugin.cn/p/203.html
+本文章原文地址:https://blog.mcplugin.cn/p/203
 本人已经取得原作者的授权在此仓库上转载这篇文章。
 如果您需要查看授权，请访问这个网址:https://i.loli.net/2020/03/07/i6dNsbIAPKe5TY1.jpg
 以下部分为原作者文章:↓这是一个论坛↓
